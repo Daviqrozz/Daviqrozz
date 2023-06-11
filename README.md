@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Me chamo Davi,e desde menor fui um entusiasta e curioso sobre o mundo da tecnologia e como ele funciona.                    <strong class='Minha area'>Front-end</strong>.<br>
+  Me chamo Davi,e desde menor sempre fui um entusiasta e curioso sobre o mundo da tecnologia e como ele funciona.                    <strong class='Minha area'>Front-end</strong>.<br>
   Cursando ADS,estudando focando em desenvolvimento web com django.
 </p>
 
