@@ -15,11 +15,14 @@
   <p>(Grafico simplificado de Criptomoedas em tempo real.)</p>          
   </div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=Alura_space&theme=radical"/>
-  <p>(Projeto do Curso Alura)</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=SisErp&theme=radical"/>
+  <p>(Sistema de gestão de empresas feito com Django)</p>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=Django-crud1&theme=radical"/>
-  <P>(Sistema feito em Django com ferramentas CRUD)</P>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=Firebase-login&theme=radical"/>
+  <P>(Sistema de autenticação com firebase feito com JS puro)</P>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=PhpForm&theme=radical"/>
+  <P>(Formulario de autenticação com validações feitas em PHP conectado a banco de dados)</P>
 </div>
 
 <br>
