@@ -1,56 +1,33 @@
-<h1>Davi Rodrigues Queiroz</h1>
- 
- <li> Desenvolvedor Front-End aspirante a FullStack
- <li> Cursando Analise e Desenvolvimentos de Sistemas (2023-2025)
-<hr>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Daviqrozz&show_icons=true&theme=radical"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviqrozz&theme=radical&layout=compact"/>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h2><b>Principais Projetos:</b></h2>
-<div>
-  <div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=BitGraph&theme=radical"/>
-  <p>(Grafico simplificado de Criptomoedas em tempo real.)</p>          
-  </div>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=SisErp&theme=radical"/>
-  <p>(Sistema de gestão de empresas feito com Django)</p>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=Firebase-login&theme=radical"/>
-  <P>(Sistema de autenticação com firebase feito com JS puro)</P>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Daviqrozz&repo=PhpForm&theme=radical"/>
-  <P>(Formulario de autenticação com validações feitas em PHP conectado a banco de dados)</P>
-</div>
+<p align="left"> 
+  Me chamo Davi rodrigues, sou um entusiasta de tecnologia e  <strong>Desenvolvedor FullStack</strong>.<br>
 
-<br>
+  Em constante aprendizado
+</p>
 
-### Tecnologias dominadas:
-<div>
-  <li> <strong>Frontend:</strong>
-  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luis-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <br>
-  <li> <strong>Backend:</strong>
-  <img align="center" alt="Luis-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  <img align="center" alt="Luis-Django" height="35" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Django.svg"/>
-  <img align="center" alt="Luis-NodeJS" height="55" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/
-  <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <br>
-</div>
+<p align="left">
+  🦄 Linguagens:PYTHON - (DJANGO),JS - (NODE,REACT),PHP - (LARAVEL)
+  ,HTML + CSS,WORDPRESS
+</p>
 
-##
+<p align="left">
+  💼 Ferramentas: N8N,SQL,DOCKER,WSL,POSTMAN
+</p>
 
-<div> 
-  <strong>Contatos:</strong>
-  <br>
-  <a href="https://www.instagram.com/aviqrozz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:daviqrozz2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://br.linkedin.com/in/davi-queiroz-648218231?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
